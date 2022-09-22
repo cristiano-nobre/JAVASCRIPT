@@ -1,3 +1,2 @@
-Studying JavaScript
- RocketSeat challenges
+Studying JavaScript - RocketSeat challenges
 # JAVASCRIPT
